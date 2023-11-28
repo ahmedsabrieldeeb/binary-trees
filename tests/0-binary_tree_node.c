@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_node - creates a binary tree node
+ * binary_tree_node - binary_tree_node
  *
  * Description: when created, a node does not have any child
  *
