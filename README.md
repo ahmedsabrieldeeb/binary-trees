@@ -12,9 +12,9 @@ This repo is for practicing binary search trees, how to build them and how to de
 - **Root Node**: A tree with only a root node has a height of **1**.
 - **Binary Tree Height**: For a binary tree of height **h**:
   - It has at least **h** nodes.
-  - It can have at most **2^{h-1}** nodes.
+  - It can have at most **nodes ≤ 2^{h-1}** nodes.
   - Every level will have at least one node and can have at most two nodes.
-  - If every level has two nodes, then a tree with height **h** will have at most **2^{h-1}** nodes.
+  - If every level has two nodes, then a tree with height **h** will have at most **nodes ≤ 2^{h-1}** nodes.
 - **Height of Binary Tree with n Nodes**:
   - The height of a binary tree with **n** nodes is at least **log₂(n + 1)** and at most **n**.
 
